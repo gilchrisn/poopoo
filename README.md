@@ -1,11 +1,8 @@
-# poopoo
-for learning purposes
-
 <html>
 <head>
     <title>RadioShack</title>
 </head>
-<body background="big_rgrey1.gif" bgcolor="#FFFFFF" text="#000000" link="#FF0000" alink="#8080FF" vlink="#008080">
+<body background="big_rgrey1.gif" text="#000000" link="#FF0000" alink="#8080FF" vlink="#008080">
     <p>
         <a href="http://www.radioshack.com/text/rsmain.html">Text Only</a>
     </p>
